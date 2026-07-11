@@ -1,0 +1,6 @@
+# 排除旧版本和备份
+/index.html
+/index.html.bak
+/index_v2.html
+/index_v3.html
+/存档
