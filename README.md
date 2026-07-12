@@ -34,10 +34,10 @@
 ## 🌐 线上体验
 
 **桌面端（需调用摄像头）：**
-<https://lalalaure.github.io/2-----/index_v6.html>
+<https://gentle-knight.github.io/2-----/index_v6.html>
 
 **手机 / 平板移动端：**
-<https://lalalaure.github.io/2-----/index_mobile.html>
+<https://gentle-knight.github.io/2-----/index_mobile.html>
 
 > ⚠️ 线上为 HTTPS，摄像头权限可正常调用。打开后点击 **📷 打开摄像头** 按钮即可启用手势识别。
 
